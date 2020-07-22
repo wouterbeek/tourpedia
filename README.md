@@ -1,6 +1,6 @@
 <img src="img/triply.png" align="right" height="150">
 
-![](https://img.shields.io/badge/triples-6950059-brightgreen)
+![](https://img.shields.io/badge/triples-6037497-brightgreen)
 
 # 🌞 TourPedia
 
